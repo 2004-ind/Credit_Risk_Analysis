@@ -83,6 +83,21 @@ Finally, the F1 score for both the models is 1 for Class 1 but for minor class m
 All in, the model using resampled data was better at detecting borrowers who are likely to default that the model generated using the original, imbalanced dataset.But if it's the other way around—that is, flagging too many borrowers as defaulters might cost the company in customer-retention dollars. Additionally,missing a high-risk loan is more costly than miscategorizing a transaction as high-risk loan
 .To avoid this, I would recommend to test the model using resampled data with additional test data.If its perfomance score still yield the better results, I would recommend using model 2.
 
+---
+
+## Contributors
+
+Manisha Lal     
+09/10/2022
+manisha.lal.2009@gmail.com
+
+---
+
+## License
+
+copyright 2022
+
+
 
 
 
