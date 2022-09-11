@@ -59,9 +59,10 @@ For both cases,I perfomed the follwing **Machine Learning** process:
 
 For a final point of examination, I compared the results from the logistic regression model that used oversampling with the logistic regression model that used only the original imbalanced dataset. The following image shows the balanced accuracy scores, confusion matrices, and classification reports that result from running a logistic regression model on the original dataset and the oversampled data:
 
+### Model 1 ###
 ![](Resources/Model_A.png)
 
-
+### Model 2 ###
 ![](Resources/Model_B.png)
 
 
